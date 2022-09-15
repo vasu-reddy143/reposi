@@ -2,3 +2,4 @@
 "Civil Engineering"
 "Mech Branch"
 "ECE & EEE"
+"AI and ML Branch"
